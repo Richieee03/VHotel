@@ -76,12 +76,3 @@ var swiper = new Swiper(".gallery-slider", {
         },
     },
 });
-
-// let accordions = document.querySelectorAll('.faqs .row .content .box');
-
-// accordions.forEach(acco =>{
-//     acco.onclick = () =>{
-//         accordions.forEach(subAcco => {subAcco.classList.remove('active')});
-//         acco.classList.add('active');
-//     }
-// })
